@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "co": "^4.6.0",
+    "node-fetch": "^3.0.0"
+  },
+  "name": "generator-res",
+  "version": "1.0.0",
+  "main": "first-spike.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayneseymour/generator-res.git"
+  },
+  "keywords": [],
+  "author": "Tre' Seymour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayneseymour/generator-res/issues"
+  },
+  "homepage": "https://github.com/wayneseymour/generator-res#readme",
+  "description": ""
+}
